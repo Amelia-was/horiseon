@@ -29,3 +29,7 @@ The website can be found [here](https://amelia-was.github.io/horiseon/)
     + removed redundant styles/merged style definitions
     + ordered styles to match HTML
     + added comments
+    
+# Built Using 
+- HTML
+- CSS
