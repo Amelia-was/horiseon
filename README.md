@@ -3,7 +3,7 @@ Horiseon is a company providing Search Engine Optimization and Social Media Mark
 The project goal was to refactor the HTML and CSS codes for improved accessibility.
 
 
-The website can be found [here](amelia-was.github.io/horiseon)
+The website can be found [here](https://amelia-was.github.io/horiseon/)
 
 ![Horiseon Website](./assets/images/horiseon-screenshot.png)
 
